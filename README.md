@@ -1,8 +1,4 @@
 # React + Vite
+A simple Contact page in React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image alt](https://github.com/itsankit789/Contact_Page/blob/3b53fd8ac4998982d43321d1fc282d70c44970d7/Screenshot%202024-12-18%20152334.png)
